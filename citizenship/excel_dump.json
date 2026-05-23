@@ -1,0 +1,57 @@
+[
+  {
+    "TOPIC": "AMERICAN GOVERNMENT",
+    "QUESTIONS": 72,
+    "SPECIAL QUESTIONS": 12
+  },
+  {
+    "TOPIC": "A: Principles of American Government",
+    "QUESTIONS": 15,
+    "SPECIAL QUESTIONS": 3
+  },
+  {
+    "TOPIC": "B: System of Government",
+    "QUESTIONS": 47,
+    "SPECIAL QUESTIONS": 8
+  },
+  {
+    "TOPIC": "C: Rights and Responsibilities",
+    "QUESTIONS": 10,
+    "SPECIAL QUESTIONS": 1
+  },
+  {
+    "TOPIC": "AMERICAN HISTORY",
+    "QUESTIONS": 46,
+    "SPECIAL QUESTIONS": 6
+  },
+  {
+    "TOPIC": "A: Colonial Period and Independence",
+    "QUESTIONS": 17,
+    "SPECIAL QUESTIONS": 3
+  },
+  {
+    "TOPIC": "B: 1800s",
+    "QUESTIONS": 10,
+    "SPECIAL QUESTIONS": 1
+  },
+  {
+    "TOPIC": "C: Recent American History and Other Important Historical Information",
+    "QUESTIONS": 19,
+    "SPECIAL QUESTIONS": 2
+  },
+  {
+    "TOPIC": "SYMBOLS AND HOLIDAYS",
+    "QUESTIONS": 10,
+    "SPECIAL QUESTIONS": 2
+  },
+  {
+    "TOPIC": "A: Symbols",
+    "QUESTIONS": 6,
+    "SPECIAL QUESTIONS": 1
+  },
+  {
+    "TOPIC": "B: Holidays",
+    "QUESTIONS": 4,
+    "SPECIAL QUESTIONS": 1
+  }
+]
